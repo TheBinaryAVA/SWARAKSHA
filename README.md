@@ -5,6 +5,7 @@ Built by Girls in STEM 💡
 SURAKSHA is an AI-powered navigation system that prioritizes **safety over speed**, helping users travel confidently by recommending the safest possible routes instead of just the shortest ones.
 
 ---
+<img width="959" height="499" alt="S1" src="https://github.com/user-attachments/assets/55fcacba-7f5c-4bdf-9fe3-7300a6ddc5cb" />
 
 ## 💡 Inspiration
 
@@ -66,7 +67,7 @@ Each route is evaluated using a weighted safety model:
 ```math
 Risk = w1(Crime) + w2(Lighting) + w3(Isolation) + w4(Weather) + w5(Time)
 
-<img width="959" height="499" alt="S1" src="https://github.com/user-attachments/assets/55fcacba-7f5c-4bdf-9fe3-7300a6ddc5cb" />
+
 
 <img width="958" height="490" alt="S2" src="https://github.com/user-attachments/assets/16ea8a19-d318-4b38-9bd2-e9986e1f3493" />
 <img width="949" height="479" alt="S3" src="https://github.com/user-attachments/assets/edafeff6-ee21-45bc-9720-7fe1d52aa30b" />
